@@ -1,1 +1,12 @@
-
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "contacto":"sda@gmail.com",
+            "nombre":"SDA",
+            "fecha_alta":"01-01-2023",
+            "fecha_cambio_password":"30-12-2023",
+            "fecha_ultimo_ingreso":"11/08/2024"
+        }
+        ]
+}
